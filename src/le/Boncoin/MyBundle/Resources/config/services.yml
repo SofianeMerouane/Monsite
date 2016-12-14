@@ -1,0 +1,4 @@
+services:
+#    le_boncoin_my.example:
+#        class: le\Boncoin\MyBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

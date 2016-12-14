@@ -1,0 +1,2 @@
+[2016-11-12 23:14:23] request.INFO: Matched route "home". {"route_parameters":{"_controller":"le\\Boncoin\\MyBundle\\Controller\\MyController::homeAction","_route":"home"},"request_uri":"http://localhost/"} []
+[2016-11-12 23:14:23] security.INFO: Populated the TokenStorage with an anonymous Token. [] []

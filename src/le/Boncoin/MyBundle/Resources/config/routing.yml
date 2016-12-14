@@ -1,0 +1,8 @@
+home:
+    path:     /
+    defaults: { _controller: leBoncoinMyBundle:My:home }
+    
+annonces:
+    path:     /annonces
+    defaults: { _controller: leBoncoinMyBundle:My:annonces }
+    
